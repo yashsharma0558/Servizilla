@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "601016045290",
+    "project_id": "servizilla-aa849",
+    "storage_bucket": "servizilla-aa849.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80446593887:android:7c2e933491996a8461b4ea",
+        "android_client_info": {
+          "package_name": "com.example.servizilla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601016045290-385iba3lbbngkbn1pn8aksd4kt2roef3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSKutJaCxicBXXpFp3WeN5RkLu5q4jAY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601016045290-385iba3lbbngkbn1pn8aksd4kt2roef3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

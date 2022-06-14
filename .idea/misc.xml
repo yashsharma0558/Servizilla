@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/LEGION/AndroidStudioProjects/Servizilla/app/src/main/res/drawable/input_bg.xml" value="0.214" />
+        <entry key="..\:/Users/LEGION/AndroidStudioProjects/Servizilla/app/src/main/res/drawable/signupbg.xml" value="0.214" />
+        <entry key="..\:/Users/LEGION/AndroidStudioProjects/Servizilla/app/src/main/res/layout/activity_main.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/LEGION/AndroidStudioProjects/Servizilla/app/src/main/res/layout/activity_sp1_signin.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/LEGION/AndroidStudioProjects/Servizilla/app/src/main/res/layout/activity_sp2_signup.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/LEGION/AndroidStudioProjects/Servizilla/app/src/main/res/layout/activity_sp3_signup.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/LEGION/AndroidStudioProjects/Servizilla/app/src/main/res/layout/activity_sp4_dash.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/LEGION/AndroidStudioProjects/Servizilla/app/src/main/res/layout/activity_sp5_more.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/LEGION/AndroidStudioProjects/Servizilla/app/src/main/res/layout/activity_sp6_contact.xml" value="0.25" />
+        <entry key="..\:/Users/LEGION/AndroidStudioProjects/Servizilla/app/src/main/res/layout/activity_st1_services.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/LEGION/AndroidStudioProjects/Servizilla/app/src/main/res/layout/activity_st2_basicservices.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/LEGION/AndroidStudioProjects/Servizilla/app/src/main/res/layout/activity_st2_carpentary.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/LEGION/AndroidStudioProjects/Servizilla/app/src/main/res/layout/activity_st2_catering.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/LEGION/AndroidStudioProjects/Servizilla/app/src/main/res/layout/activity_st2_creativityworker.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/LEGION/AndroidStudioProjects/Servizilla/app/src/main/res/layout/activity_st3_area.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/LEGION/AndroidStudioProjects/Servizilla/app/src/main/res/layout/activity_st3_experience.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/LEGION/AndroidStudioProjects/Servizilla/app/src/main/res/layout/activity_st3_rating.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/LEGION/AndroidStudioProjects/Servizilla/app/src/main/res/layout/st_2_electrician.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/LEGION/AndroidStudioProjects/Servizilla/app/src/main/res/layout/st_2_events.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/LEGION/AndroidStudioProjects/Servizilla/app/src/main/res/layout/st_2_fabricationwork.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/LEGION/AndroidStudioProjects/Servizilla/app/src/main/res/layout/st_2_gardening.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/LEGION/AndroidStudioProjects/Servizilla/app/src/main/res/layout/st_2_healthcare.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/LEGION/AndroidStudioProjects/Servizilla/app/src/main/res/layout/st_2_homedecor.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/LEGION/AndroidStudioProjects/Servizilla/app/src/main/res/layout/st_2_hometutor.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/LEGION/AndroidStudioProjects/Servizilla/app/src/main/res/layout/st_2_housemaid.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/LEGION/AndroidStudioProjects/Servizilla/app/src/main/res/layout/st_2_launderer.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/LEGION/AndroidStudioProjects/Servizilla/app/src/main/res/layout/st_2_mensonary.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/LEGION/AndroidStudioProjects/Servizilla/app/src/main/res/layout/st_2_painters.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/LEGION/AndroidStudioProjects/Servizilla/app/src/main/res/layout/st_2_plumber.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/LEGION/AndroidStudioProjects/Servizilla/app/src/main/res/layout/st_2_security.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/LEGION/AndroidStudioProjects/Servizilla/app/src/main/res/layout/st_2_transportation.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/LEGION/AndroidStudioProjects/Servizilla/app/src/main/res/layout/st_2_vehicleservices.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/Yash Sharma/Downloads/Servizilla/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Yash Sharma/Downloads/Servizilla/app/src/main/res/layout/activity_sp1_signin.xml" value="0.2" />
+        <entry key="..\:/Users/Yash Sharma/Downloads/Servizilla/app/src/main/res/layout/activity_sp4_dash.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Yash Sharma/Downloads/Servizilla/app/src/main/res/layout/activity_verify_phone.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

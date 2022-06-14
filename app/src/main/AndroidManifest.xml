@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.servizilla">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Servizilla">
+        <activity
+            android:name=".st_3_rating"
+            android:exported="false" />
+        <activity
+            android:name=".st_3_experience"
+            android:exported="false" />
+        <activity
+            android:name=".st_3_area"
+            android:exported="false" />
+        <activity
+            android:name=".sp_6_contact"
+            android:exported="false" />
+        <activity
+            android:name=".sp_5_more"
+            android:exported="false" />
+        <activity
+            android:name=".st_2_vehicleservices"
+            android:exported="false" />
+        <activity
+            android:name=".st_2_security"
+            android:exported="false" />
+        <activity
+            android:name=".st_2_plumber"
+            android:exported="false" />
+        <activity
+            android:name=".st_2_painters"
+            android:exported="false" />
+        <activity
+            android:name=".st_2_mensonary"
+            android:exported="false" />
+        <activity
+            android:name=".st_2_launderer"
+            android:exported="false" />
+        <activity
+            android:name=".st_2_housemaid"
+            android:exported="false" />
+        <activity
+            android:name=".st_2_hometutor"
+            android:exported="false" />
+        <activity
+            android:name=".st_2_homedecor"
+            android:exported="false" />
+        <activity
+            android:name=".st_2_healthcare"
+            android:exported="false" />
+        <activity
+            android:name=".st_2_gardening"
+            android:exported="false" />
+        <activity
+            android:name=".st_2_fabricationwork"
+            android:exported="false" />
+        <activity
+            android:name=".st_2_events"
+            android:exported="false" />
+        <activity
+            android:name=".st_2_electrician"
+            android:exported="false" />
+        <activity
+            android:name=".st_2_creativityworker"
+            android:exported="false" />
+        <activity
+            android:name=".st_2_catering"
+            android:exported="false" />
+        <activity
+            android:name=".st_2_carpentary"
+            android:exported="false" />
+        <activity
+            android:name=".st_2_basicservices"
+            android:exported="false" />
+        <activity
+            android:name=".st_1_services"
+            android:exported="false"
+            android:label="Service Taker" />
+        <activity
+            android:name=".sp4_dash"
+            android:exported="false" />
+        <activity
+            android:name=".sp2_signup"
+            android:exported="false" />
+        <activity
+            android:name=".sp3_signup"
+            android:exported="false" />
+        <activity
+            android:name=".sp_1_signin"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
